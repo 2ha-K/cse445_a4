@@ -1,0 +1,129 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Hotels xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xsi:noNamespaceSchemaLocation="https://2ha-k.github.io/cse445_a4/Hotels.xsd">
+
+	<Hotel Rating="4.5">
+		<Name>SHERATON GRAND</Name>
+		<Phone>+1-111-1111</Phone>
+		<Phone>+1-111-1112</Phone>
+		<Address NearestAirport="JFK">
+			<Number>123</Number>
+			<Street>Apple St</Street>
+			<City>New York</City>
+			<State>NY</State>
+			<Zip>10001</Zip>
+		</Address>
+	</Hotel>
+
+	<Hotel Rating="5.0">
+		<Name>Banana Resort</Name>
+		<Phone>+1-111-1113</Phone>
+		<Address NearestAirport="LGA">
+			<Number>245</Number>
+			<Street>Banana St</Street>
+			<City>New York</City>
+			<State>NY</State>
+			<Zip>10023</Zip>
+		</Address>
+	</Hotel>
+
+	<Hotel Rating="4.2">
+		<Name>Hilton Garden Inn</Name>
+		<Phone>+1-555-4567</Phone>
+		<Phone>+1-555-4568</Phone>
+		<Address NearestAirport="Sky Harbor">
+			<Number>7324</Number>
+			<Street>E Indian School Rd</Street>
+			<City>Scottsdale</City>
+			<State>AZ</State>
+			<Zip>85251</Zip>
+		</Address>
+	</Hotel>
+
+	<Hotel>
+		<Name>Marriott Phoenix Downtown</Name>
+		<Phone>+1-602-333-3333</Phone>
+		<Address NearestAirport="Phoenix Sky Harbor">
+			<Number>100</Number>
+			<Street>E Adams St</Street>
+			<City>Phoenix</City>
+			<State>AZ</State>
+			<Zip>85004</Zip>
+		</Address>
+	</Hotel>
+
+	<Hotel Rating="4.8">
+		<Name>Westin Tempe</Name>
+		<Phone>+1-480-968-8885</Phone>
+		<Phone>+1-800-937-8461</Phone>
+		<Address NearestAirport="Sky Harbor">
+			<Number>11</Number>
+			<Street>E 7th St</Street>
+			<City>Tempe</City>
+			<State>AZ</State>
+			<Zip>85281</Zip>
+		</Address>
+	</Hotel>
+
+	<Hotel>
+		<Name>Oceanview Resort</Name>
+		<Phone>+1-555-8765</Phone>
+		<Address NearestAirport="LAX">
+			<Number>456</Number>
+			<Street>Beach Blvd</Street>
+			<City>Los Angeles</City>
+			<State>CA</State>
+			<Zip>90001</Zip>
+		</Address>
+	</Hotel>
+
+	<Hotel Rating="3.9">
+		<Name>Downtown Comfort Inn</Name>
+		<Phone>+1-415-123-4567</Phone>
+		<Address NearestAirport="SFO">
+			<Number>89</Number>
+			<Street>Market St</Street>
+			<City>San Francisco</City>
+			<State>CA</State>
+			<Zip>94103</Zip>
+		</Address>
+	</Hotel>
+
+	<Hotel Rating="4.1">
+		<Name>Holiday Inn Express</Name>
+		<Phone>+1-312-777-7777</Phone>
+		<Address NearestAirport="ORD">
+			<Number>600</Number>
+			<Street>N Michigan Ave</Street>
+			<City>Chicago</City>
+			<State>IL</State>
+			<Zip>60611</Zip>
+		</Address>
+	</Hotel>
+
+	<Hotel>
+		<Name>Silver Lake Lodge</Name>
+		<Phone>+1-206-555-4444</Phone>
+		<Phone>+1-206-555-5555</Phone>
+		<Address NearestAirport="SEA">
+			<Number>520</Number>
+			<Street>Lakeview Blvd</Street>
+			<City>Seattle</City>
+			<State>WA</State>
+			<Zip>98109</Zip>
+		</Address>
+	</Hotel>
+
+	<Hotel Rating="4.7">
+		<Name>Desert Mirage Hotel</Name>
+		<Phone>+1-520-555-7777</Phone>
+		<Address NearestAirport="TUS">
+			<Number>300</Number>
+			<Street>Mirage Ave</Street>
+			<City>Tucson</City>
+			<State>AZ</State>
+			<Zip>85705</Zip>
+		</Address>
+	</Hotel>
+
+</Hotels>
