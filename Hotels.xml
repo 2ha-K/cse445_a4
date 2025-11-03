@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <Hotels xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-        xsi:noNamespaceSchemaLocation="https://2ha-k.github.io/cse445_a4/Hotels.xsd">
+        xsi:noNamespaceSchemaLocation="Hotels.xsd">
 
 	<Hotel Rating="4.5">
 		<Name>SHERATON GRAND</Name>
@@ -125,5 +125,6 @@
 			<Zip>85705</Zip>
 		</Address>
 	</Hotel>
+
 
 </Hotels>
