@@ -4,7 +4,6 @@
 
 	<!--  A required attribute is missing -->
 	<Hotel Rating="4.5">
-		<Address NearestAirport="LGA">
 		<Name>SHERATON GRAND</Name>
 		<Phone>+1-111-1111</Phone>
 		<Phone>+1-111-1112</Phone>
@@ -132,3 +131,4 @@
 
 
 </Hotel>
+
